@@ -54,8 +54,14 @@ Most regions experienced more non-tsunami earthquakes than tsunami-generating ea
 The deadliest earthquakes occurred widely across time and were primarily located in Asia and the Middle east. All of the deadliest earthquakes had MMIs of IX or higher.
 
 ## Power BI Dashboards
+### Overview
 ![Overview Dashboard](/Dashboards/Overview.png)
-![Region Breakdown Dashboard](/Dashboards/)
+
+### Region Breakdown
+![Region Breakdown Dashboard](/Dashboards/Region_Breakdown.png)
+
+### World Map
+![World Map Dashboard](/Dashboards/World_Map.png)
 
 ## Tools & Technologies
 * Google BigQuery
